@@ -20,8 +20,8 @@ This is semantically built website for any company that offers educational servi
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/IvaKishko/skilled-web-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/IvaKishko/skilled-web-app]
+- Live Site URL: [https://ivakishko.github.io/skilled-web-app/]
 
 ### Built with
 
